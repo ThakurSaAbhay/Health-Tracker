@@ -1,0 +1,21 @@
+.body{
+    overflow: scroll;
+}
+.trends-container {
+    padding: 20px;
+}
+
+.graphs {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.graph {
+    width: 30vw;
+    background-color: #040404;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color-scheme: white;
+}

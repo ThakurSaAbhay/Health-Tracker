@@ -1,0 +1,44 @@
+.container {
+    background-color: #121212;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid rgba(0, 255, 255, 0.5);
+    border-radius: 4px;
+    background: #1f1f1f;
+    color: white;
+    outline: none;
+    transition: border 0.3s;
+}
+
+input:focus {
+    border-color: #00ffff;
+}
+
+button {
+    width: 80%; /* Ensure the button takes up 90% width */
+    padding: 12px;
+    background: linear-gradient(135deg, #00ffff, #00bcd4);
+    color: #000000;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin:auto ;
+    margin-top: 20px;
+    transition: background 0.3s, transform 0.3s;
+    display: block; /* Make it a block element */
+}
+
+button:hover {
+    background-color: #0ff;
+}
