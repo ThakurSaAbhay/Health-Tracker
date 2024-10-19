@@ -1,4 +1,4 @@
-# Health Tracker 🚀
+# Health Tracker 🚀 [</>](https://health-tracker-frontend-production.up.railway.app/)
   [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/Sage?style=for-the-badge)](https://github.com/ThakurSaAbhay/Health-Tracker)
   [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Sage?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Health-Tracker)
   [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Sage?style=for-the-badge&logo=git)](https://github.com/ThakurSaAbhay/Health-Tracker) 
@@ -21,9 +21,6 @@ A **Health Tracker Application** to log, track, and analyze health data such as 
 - **Dockerized**: Helps to containerize the services making it easily deployable on each machine.
 - **Mobile Friendly**: Responsive design that works seamlessly on mobile devices.
 
-## 🛢 **Structure**
-![Screenshot 2024-10-19 164222](https://github.com/user-attachments/assets/ab113284-9a79-4044-9507-d862831406f6)
-
 
 ## 🎯 **Tech Stack**
 
@@ -38,6 +35,10 @@ A **Health Tracker Application** to log, track, and analyze health data such as 
 - **MySQL**: Storing user and health data.
 - **Docker**: Containerization of the backend service.
 - **Railway**: Deployment of the frontend and backend services.
+  
+## 🛢 **Structure**
+![Screenshot 2024-10-19 164222](https://github.com/user-attachments/assets/ab113284-9a79-4044-9507-d862831406f6)
+
 
 ## 🚀 **Getting Started**
 
