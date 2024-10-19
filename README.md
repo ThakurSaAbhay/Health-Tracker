@@ -3,7 +3,7 @@
   [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Sage?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Health-Tracker)
   [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Sage?style=for-the-badge&logo=git)](https://github.com/ThakurSaAbhay/Health-Tracker) 
 
-A **Health Tracker Application** to log, track, and analyze health data such as weight, blood pressure, heart rate, cholesterol levels, blood sugar, BMI, and more. It provides detailed trends and insights for users to monitor their health over time.
+A **Health Tracker Application** to log, track, and analyze health data such as weight, blood pressure, heart rate, cholesterol levels, blood sugar, BMI, and more. It provides detailed trends and insights for users to monitor their health over time. Built using **React**, **Spring-Boot** and **mySQL**
 
 ## 🏥 **Features**
 
